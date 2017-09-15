@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e107Plugin name="phpMyReservation" lan="" version="1.0" date="2017-09-15" compatibility="2.0" installRequired="true" >
+	<author name="Jimako" url="https://www.e107.sk/" />
+	<summary lan="">e107 phpMyReservation is a web-based reservation system ported </summary>
+	<description lan="">phpMyReservation is a web-based reservation system. It is based on HTML5, PHP and MySQL, and it is free and open source.It was originally written to replace the paper-based reservation system used to reserve a washing machine used by many people where I live. Since it has other potential uses, and can be useful to others, I decided to make it available here.In addition to reserving a washing machine, it can for example be used to reserve a tennis court, a conference/meeting room etc. It is not intented to be used in situations where high security, high reliability or being able to handle hundreds of users is required.</description>
+	<keywords>
+		<word>commerce</word>
+		<word>reservation</word>
+		<word>slot</word>
+	</keywords>
+	<category>content</category>
+	<copyright></copyright>
+	<adminLinks>
+		<link url="admin_config.php" description="" icon="img/icon_32.png" iconSmall="img/icon_16.png" icon128="img/icon_128.png" primary="true" >LAN_CONFIGURE</link>
+	</adminLinks>
+	<siteLinks>
+		<link name="" url="reservations" sef='index' lan="LAN_RESERVATION_01">Reservations</link>
+	</siteLinks>
+	<pluginPrefs>
+		<pref name="global_title">Tennis court reservation</pref>
+		<pref name="global_organization">Local tennis club</pref>
+		<pref name="global_weeks_forward">2</pref>
+		<pref name="global_times">9-10,10-11,11-12,12-13,13-14,14-15,15-16,16-17,17-18</pref>
+		<pref name="global_days">Monday,Tuesday,Wednesday,Thursday,Friday,Saturday,Sunday</pref>
+		<pref name="blocked_text">Blocked</pref>
+	</pluginPrefs>	
+</e107Plugin>
