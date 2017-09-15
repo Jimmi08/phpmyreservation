@@ -2,7 +2,7 @@
 https://github.com/olejon/phpmyreservation
  
 ## This plugin is not under active development. 
-I can't do more. I would like but it hit my e107 knowleadge.  
+I can't do more. I would like but it hit my e107 knowledge.  
 So if anybody wants to rewrite it with e107 ajax functionality, remainders or notification, they are welcome.
 
 ## What is done?
