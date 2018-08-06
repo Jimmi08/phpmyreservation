@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<e107Plugin name="phpMyReservation" lan="" version="1.0" date="2017-09-15" compatibility="2.0" installRequired="true" >
+<e107Plugin name="phpmyreservation" lan="" version="1.0" date="2017-09-15" compatibility="2.0" installRequired="true" >
 	<author name="Jimako" url="https://www.e107.sk/" />
 	<summary lan="">e107 phpMyReservation is a web-based reservation system ported </summary>
 	<description lan="">phpMyReservation is a web-based reservation system. It is based on HTML5, PHP and MySQL, and it is free and open source.It was originally written to replace the paper-based reservation system used to reserve a washing machine used by many people where I live. Since it has other potential uses, and can be useful to others, I decided to make it available here.In addition to reserving a washing machine, it can for example be used to reserve a tennis court, a conference/meeting room etc. It is not intented to be used in situations where high security, high reliability or being able to handle hundreds of users is required.</description>
